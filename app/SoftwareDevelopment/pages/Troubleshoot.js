@@ -40,7 +40,7 @@ export default function Troubleshoot() {
     onClick={handleSetupClick}
   >
      {/* Click Here For Printer Setup */}
-     Click Here For Chat Assistance
+     Click Here For Printer Setup
   </button>
 </div>
 
