@@ -41,8 +41,8 @@ export const PrivacyPolicy = () => {
                     <h2 className="text-2xl font-semibold text-gray-900">Who We Are</h2>
                     <p className="text-lg">
                         We at <strong>Hewlett Printers Solution</strong>, located at the World Wide Web as{" "}
-                        <a href="http://hewlettprintersolution.com" className="text-blue-500 hover:underline">
-                            www.hewlettprintersolution.com
+                        <a href="http://hewlettprinterssolution.com" className="text-blue-500 hover:underline">
+                            www.hewlettprinterssolution.com
                         </a>, value your right to privacy. As a visitor to our website, we understand the importance of your privacy and strive to ensure that your information is protected.
                         We may ask for personal information such as your name, email address, or preferences when you access specific areas of our website or subscribe to our newsletter.
                         Rest assured, your data is securely managed to deliver content and services tailored to your choices.
@@ -105,8 +105,8 @@ export const PrivacyPolicy = () => {
                     <p className="text-sm">© 2025 Hewlett Printers Solution. All Rights Reserved.</p>
                     <p className="text-sm">
                         For any questions or concerns regarding our privacy policy, please contact us at{" "}
-                        <a href="mailto:support@hewlettprintersolution.com" className="text-blue-500 hover:underline">
-                            support@hewlettprintersolution.com
+                        <a href="mailto:support@hewlettprinterssolution.com" className="text-blue-500 hover:underline">
+                            support@hewlettprinterssolution.com
                         </a>.
                     </p>
                 </footer>
