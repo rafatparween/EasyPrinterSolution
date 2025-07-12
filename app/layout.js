@@ -68,7 +68,7 @@ export default function RootLayout({ children }) {
 
             gtag('config', 'AW-17323585731');
 
-            console.log("✅ Google Tag (AW-17323585731) initialized successfully.");
+            console.log("✅ Google Tag (AW-17323585731) initialized successfully.")
           `}
         </Script>
 
