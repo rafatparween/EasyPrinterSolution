@@ -166,7 +166,7 @@ export default function Troubleshoot() {
             onClick={handleSetupClick}
             disabled={!jivoReady}
           >
-            Click Here For Printer Setup
+           Click Here For Our Expert Help
           </button>
         </div>
 
