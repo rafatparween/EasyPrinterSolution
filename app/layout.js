@@ -41,6 +41,7 @@
 
 
 
+
 import { Inter } from "next/font/google";
 import Script from "next/script";
 import "./globals.css";
@@ -56,35 +57,20 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en">
       <head>
-        {/* ✅ Google tag (gtag.js) for AW-17332366895 */}
-        <Script
-          async
-          src="https://www.googletagmanager.com/gtag/js?id=AW-17332366895"
-        />
-        <Script id="gtag-init-1" strategy="afterInteractive">
-          {`
-            window.dataLayer = window.dataLayer || [];
-            function gtag(){dataLayer.push(arguments);}
-            gtag('js', new Date());
-            gtag('config', 'AW-17332366895');
-
-            console.log("✅ Google Tag (AW-17332366895) initialized successfully.");
-          `}
-        </Script>
-
-        {/* ✅ New Google tag (gtag.js) for AW-17323585731 */}
+        {/* ✅ Google tag (gtag.js) for AW-17323585731 */}
         <Script
           async
           src="https://www.googletagmanager.com/gtag/js?id=AW-17323585731"
         />
-        <Script id="gtag-init-2" strategy="afterInteractive">
+        <Script id="gtag-init" strategy="afterInteractive">
           {`
             window.dataLayer = window.dataLayer || [];
             function gtag(){dataLayer.push(arguments);}
             gtag('js', new Date());
+
             gtag('config', 'AW-17323585731');
 
-            console.log("✅ Google Tag (AW-17323585731) initialized successfully.");
+            console.log("✅ Google Tag (AW-17323585731) initialized successfully.")
           `}
         </Script>
 
