@@ -97,7 +97,7 @@ import { useState } from "react";
 import { FiMenu } from "react-icons/fi";
 import Link from "next/link";
 
-export default function PageHeader() {
+export default function PageNavbar() {
   const [isOpen, setIsOpen] = useState(false);
   const handleRedirect = () => {
     window.open("https://www.printersmartassistant.com/", "_blank");
