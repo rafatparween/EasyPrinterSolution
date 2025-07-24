@@ -10,7 +10,7 @@ export const PrivacyPolicy = () => {
                 <section>
                     <h2 className="text-2xl font-semibold text-gray-900">🔒 Privacy Policy</h2>
                     <p className="text-lg">
-                        At <strong>Hewlett Printers Solution</strong>, we take your privacy seriously. Our website is designed to offer helpful content without collecting unnecessary personal data.
+                        At <strong>Hewlett Printers Solutions</strong>, we take your privacy seriously. Our website is designed to offer helpful content without collecting unnecessary personal data.
                     </p>
                     <p className="text-lg font-medium">What We Collect:</p>
                     <ul className="list-disc list-inside text-lg space-y-2">
@@ -40,7 +40,7 @@ export const PrivacyPolicy = () => {
                 <section>
                     <h2 className="text-2xl font-semibold text-gray-900">Who We Are</h2>
                     <p className="text-lg">
-                        We at <strong>Hewlett Printers Solution</strong>, located at the World Wide Web as{" "}
+                        We at <strong>Hewlett Printers Solutions</strong>, located at the World Wide Web as{" "}
                         <a href="http://hewlettprinterssolution.com" className="text-blue-500 hover:underline">
                             www.hewlettprinterssolution.com
                         </a>, value your right to privacy. As a visitor to our website, we understand the importance of your privacy and strive to ensure that your information is protected.
@@ -75,7 +75,7 @@ export const PrivacyPolicy = () => {
                 <section>
                     <h2 className="text-2xl font-semibold text-gray-900">How We Protect Your Personal Information</h2>
                     <p className="text-lg">
-                        At <strong>Hewlett Printers Solution</strong>, we prioritize your privacy and security. Sensitive information entered on our website, such as credit card details, is encrypted using Secure Socket Layer (SSL) technology.
+                        At <strong>Hewlett Printers Solutions</strong>, we prioritize your privacy and security. Sensitive information entered on our website, such as credit card details, is encrypted using Secure Socket Layer (SSL) technology.
                         We adhere to industry standards to safeguard your personal information during transmission and storage.
                     </p>
                     <p className="text-lg">
@@ -96,13 +96,13 @@ export const PrivacyPolicy = () => {
                 <section>
                     <h2 className="text-2xl font-semibold text-gray-900">Notification of Changes</h2>
                     <p className="text-lg">
-                        If <strong>Hewlett Printers Solution</strong> decides to make changes to this Privacy Policy, we will post the updates on this page and other relevant areas of our website.
+                        If <strong>Hewlett Printers Solutions</strong> decides to make changes to this Privacy Policy, we will post the updates on this page and other relevant areas of our website.
                         This ensures that our users are always aware of what information we collect, how we use it, and under what circumstances it may be disclosed.
                     </p>
                 </section>
 
                 <footer className="text-center text-gray-600">
-                    <p className="text-sm">© 2025 Hewlett Printers Solution. All Rights Reserved.</p>
+                    <p className="text-sm">© 2025 Hewlett Printers Solutions. All Rights Reserved.</p>
                     <p className="text-sm">
                         For any questions or concerns regarding our privacy policy, please contact us at{" "}
                         <a href="mailto:support@hewlettprinterssolution.com" className="text-blue-500 hover:underline">

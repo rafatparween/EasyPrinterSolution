@@ -120,7 +120,7 @@ export default function PageNavbar() {
             {/* Your original desktop navigation - untouched */}
             <div className="hidden md:flex justify-between items-center w-full">
               {[
-                "Hewlett Printers Solution",
+                "Hewlett Printers Solutions",
                 // "Printer Setup",
                 // "Scanner Setup",
                 // "Support Home",

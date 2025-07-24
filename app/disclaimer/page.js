@@ -8,7 +8,7 @@ const Disclaimer = () => {
             {/* New Disclaimer Text */}
             <div className="bg-blue-100 border-l-4 border-blue-500 text-blue-900 p-6 mb-10 rounded-md">
                 <p className="mb-4">
-                    <strong>Hewlett Printers Solution</strong> is an independent informational website and is not affiliated with or endorsed by any printer manufacturers, including but not limited to HP (Hewlett-Packard), Epson, Canon, Brother, or Lexmark.
+                    <strong>Hewlett Printers Solutions</strong> is an independent informational website and is not affiliated with or endorsed by any printer manufacturers, including but not limited to HP (Hewlett-Packard), Epson, Canon, Brother, or Lexmark.
                 </p>
                 <p className="mb-4">
                     All brand names, trademarks, logos, and product images are the property of their respective owners and are used strictly for informational and reference purposes only.
@@ -21,7 +21,7 @@ const Disclaimer = () => {
             {/* Existing Content */}
             <div className="space-y-6 text-lg leading-relaxed">
                 <p>
-                    The information provided by <strong>Hewlett Printers Solution</strong> ("we," "us," or "our") on this website is for general informational purposes only. All information on the site is provided in good faith, however we make no representation or warranty of any kind, express or implied, regarding the accuracy, adequacy, validity, reliability, availability, or completeness of any information on the site.
+                    The information provided by <strong>Hewlett Printers Solutions</strong> ("we," "us," or "our") on this website is for general informational purposes only. All information on the site is provided in good faith, however we make no representation or warranty of any kind, express or implied, regarding the accuracy, adequacy, validity, reliability, availability, or completeness of any information on the site.
                 </p>
                 <p>
                     Under no circumstance shall we have any liability to you for any loss or damage of any kind incurred as a result of the use of the site or reliance on any information provided on the site. Your use of the site and your reliance on any information on the site is solely at your own risk.

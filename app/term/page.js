@@ -9,7 +9,7 @@ const TermPage = () => {
                     <ul className="list-disc list-inside text-lg space-y-2">
                         <li>All content provided is for informational purposes only.</li>
                         <li>Users may not reproduce, distribute, or exploit any content from this site without prior written permission.</li>
-                        <li>Hewlett Printers Solution reserves the right to update or modify these terms at any time without notice.</li>
+                        <li>Hewlett Printers Solutions reserves the right to update or modify these terms at any time without notice.</li>
                         <li>Use of this website is at your own risk. We are not liable for any damages or losses resulting from the use of the information provided.</li>
                     </ul>
                     <p className="text-lg mt-2">
@@ -34,9 +34,9 @@ const TermPage = () => {
                 <section>
                     <h2 className="text-2xl font-semibold text-gray-900">Third-Party Links Disclaimer</h2>
                     <p className="text-lg">
-                        This website may contain links to external websites that are not provided, maintained, or affiliated with Hewlett Printers Solution.
+                        This website may contain links to external websites that are not provided, maintained, or affiliated with Hewlett Printers Solutions.
                         We do not guarantee the accuracy, relevance, timeliness, or completeness of any information on these external sites.
-                        Hewlett Printers Solution is not responsible for the content, privacy practices, or policies of any third-party websites linked from our platform.
+                        Hewlett Printers Solutions is not responsible for the content, privacy practices, or policies of any third-party websites linked from our platform.
                         Users are encouraged to review the privacy policies and terms of use of any third-party websites they visit through links on our site.
                     </p>
                 </section>

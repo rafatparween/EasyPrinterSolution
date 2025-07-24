@@ -49,8 +49,8 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Hewlett Printers Solution",
-  description: "Hewlett Printers Solution",
+  title: "Hewlett Printers Solutions",
+  description: "Hewlett Printers Solutions",
 };
 
 export default function RootLayout({ children }) {
